@@ -1,4 +1,4 @@
-# Street Samrt
+# Street Smart
 A carpark availability app for motorists in Singapore. This app was created in conjunction with University of London's Mobile Developemnt module as part of the BSc in Computer Science Degree.
 
 
@@ -10,10 +10,10 @@ Follow these steps to set up the project and run it.
 
 Before running the project, make sure you have the following installed:
 
-- **Node.js and npm:**  
+✅ **Node.js and npm:**  
   Download and install the latest version of NodeJS and NPM:
 
-- **Expo CLI**
+✅ **Expo CLI**
   Install Expo CLI with the following command:
   ```bash
   npm install -g expo-cli
@@ -31,7 +31,7 @@ cd <repository-directory>
 npm install
 ```
 
-## Run the App
+## 🚀 Run the App
 ```bash
 npx expo start
 ```
