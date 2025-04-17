@@ -1,7 +1,5 @@
 import axios from "axios";
-// The below code uses the environment variable
-// I commented it out as snacks expo does not support environment variables
-// import { URA_API_KEY } from "@env";
+import { URA_API_KEY } from "@env";
 
 
 // Generate token from Urban Redevelopment Authority (URA) website
