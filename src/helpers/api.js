@@ -3,9 +3,6 @@ import axios from "axios";
 // I commented it out as snacks expo does not support environment variables
 // import { URA_API_KEY } from "@env";
 
-// Hardcoded URA API key because snacks expo does not support environment variables
-const URA_API_KEY = "a613a333-51b7-4e93-a2a3-bdb254740985"
-
 
 // Generate token from Urban Redevelopment Authority (URA) website
 export const getToken = async () => {
